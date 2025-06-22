@@ -1,5 +1,12 @@
 # 👋 Hi, I'm Rupkumar Sarkar
 
+### 👋 Hi, I'm Rupkumar Sarkar
+
+- 📆 **Originally joined GitHub on:** `January 22, 2022` ([@masteronevil](https://github.com/masteronevil))
+- 📂 Re-uploading old projects from previous accounts 
+
+> 🚀 New GitHub profile since 2025. All old projects and work are being restored here.
+
 🚀 **Full-stack Developer** | Flutter 💙 | Node.js ⚙️ | MongoDB 🍃  
 📍 Based in India | 🔐 Passionate about Clean Architecture & Scalable Systems  
 🧑‍💻 Pronouns: He/Him | 📬 rupkumarsarkar648254@gmail.com
