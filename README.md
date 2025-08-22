@@ -9,7 +9,7 @@
 
 🚀 **Full-stack Developer** | Flutter 💙 | Node.js ⚙️ | MongoDB 🍃  
 📍 Based in India | 🔐 Passionate about Clean Architecture & Scalable Systems  
-🧑‍💻 Pronouns: He/Him | 📬 rupkumarsarkar648254@gmail.com
+🧑‍💻 Pronouns: He/Him | 
 
 ---
 
@@ -48,7 +48,6 @@ A Flutter-based health monitoring app for Anganwadi Workers
 
 - 🔗 [GitHub](https://github.com/rupkumar-dev)
 - 💼 [LinkedIn](https://linkedin.com/in/rupkumar)
-- 📫 Email: rupkumarsarkar648254@gmail.com
 
 ---
 
